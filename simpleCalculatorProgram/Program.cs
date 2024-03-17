@@ -26,7 +26,7 @@ switch(symbol)
 
     case "/":
     // Avoid 0
-    if (secondNumber == 0)
+    if (firstNumber == 0 || secondNumber == 0)
     {
         Console.WriteLine("Can not divide on zero.\nRestart program and try again.");
         Environment.Exit(0); // Shutting down application.

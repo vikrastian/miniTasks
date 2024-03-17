@@ -12,3 +12,4 @@ C:\Github\miniTasks\simpleCalculatorProgram\obj\Debug\net8.0\refint\simpleCalcul
 C:\Github\miniTasks\simpleCalculatorProgram\obj\Debug\net8.0\simpleCalculatorProgram.pdb
 C:\Github\miniTasks\simpleCalculatorProgram\obj\Debug\net8.0\simpleCalculatorProgram.genruntimeconfig.cache
 C:\Github\miniTasks\simpleCalculatorProgram\obj\Debug\net8.0\ref\simpleCalculatorProgram.dll
+C:\Github\miniTasks\simpleCalculatorProgram\obj\Debug\net8.0\simpleCalculatorProgram.sourcelink.json
