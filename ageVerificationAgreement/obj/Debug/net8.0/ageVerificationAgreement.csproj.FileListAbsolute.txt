@@ -1,0 +1,14 @@
+C:\Github\miniTasks\ageVerificationAgreement\obj\Debug\net8.0\ageVerificationAgreement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\miniTasks\ageVerificationAgreement\obj\Debug\net8.0\ageVerificationAgreement.AssemblyInfoInputs.cache
+C:\Github\miniTasks\ageVerificationAgreement\obj\Debug\net8.0\ageVerificationAgreement.AssemblyInfo.cs
+C:\Github\miniTasks\ageVerificationAgreement\obj\Debug\net8.0\ageVerificationAgreement.csproj.CoreCompileInputs.cache
+C:\Github\miniTasks\ageVerificationAgreement\bin\Debug\net8.0\ageVerificationAgreement.exe
+C:\Github\miniTasks\ageVerificationAgreement\bin\Debug\net8.0\ageVerificationAgreement.deps.json
+C:\Github\miniTasks\ageVerificationAgreement\bin\Debug\net8.0\ageVerificationAgreement.runtimeconfig.json
+C:\Github\miniTasks\ageVerificationAgreement\bin\Debug\net8.0\ageVerificationAgreement.dll
+C:\Github\miniTasks\ageVerificationAgreement\bin\Debug\net8.0\ageVerificationAgreement.pdb
+C:\Github\miniTasks\ageVerificationAgreement\obj\Debug\net8.0\ageVerificationAgreement.dll
+C:\Github\miniTasks\ageVerificationAgreement\obj\Debug\net8.0\refint\ageVerificationAgreement.dll
+C:\Github\miniTasks\ageVerificationAgreement\obj\Debug\net8.0\ageVerificationAgreement.pdb
+C:\Github\miniTasks\ageVerificationAgreement\obj\Debug\net8.0\ageVerificationAgreement.genruntimeconfig.cache
+C:\Github\miniTasks\ageVerificationAgreement\obj\Debug\net8.0\ref\ageVerificationAgreement.dll

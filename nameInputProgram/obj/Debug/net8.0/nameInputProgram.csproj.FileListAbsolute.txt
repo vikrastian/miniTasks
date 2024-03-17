@@ -1,0 +1,14 @@
+C:\Github\miniTasks\nameInputProgram\obj\Debug\net8.0\nameInputProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\miniTasks\nameInputProgram\obj\Debug\net8.0\nameInputProgram.AssemblyInfoInputs.cache
+C:\Github\miniTasks\nameInputProgram\obj\Debug\net8.0\nameInputProgram.AssemblyInfo.cs
+C:\Github\miniTasks\nameInputProgram\obj\Debug\net8.0\nameInputProgram.csproj.CoreCompileInputs.cache
+C:\Github\miniTasks\nameInputProgram\bin\Debug\net8.0\nameInputProgram.exe
+C:\Github\miniTasks\nameInputProgram\bin\Debug\net8.0\nameInputProgram.deps.json
+C:\Github\miniTasks\nameInputProgram\bin\Debug\net8.0\nameInputProgram.runtimeconfig.json
+C:\Github\miniTasks\nameInputProgram\bin\Debug\net8.0\nameInputProgram.dll
+C:\Github\miniTasks\nameInputProgram\bin\Debug\net8.0\nameInputProgram.pdb
+C:\Github\miniTasks\nameInputProgram\obj\Debug\net8.0\nameInputProgram.dll
+C:\Github\miniTasks\nameInputProgram\obj\Debug\net8.0\refint\nameInputProgram.dll
+C:\Github\miniTasks\nameInputProgram\obj\Debug\net8.0\nameInputProgram.pdb
+C:\Github\miniTasks\nameInputProgram\obj\Debug\net8.0\nameInputProgram.genruntimeconfig.cache
+C:\Github\miniTasks\nameInputProgram\obj\Debug\net8.0\ref\nameInputProgram.dll

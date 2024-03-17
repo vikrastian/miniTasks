@@ -1,0 +1,14 @@
+C:\Github\miniTasks\simpleCalculatorProgram\bin\Debug\net8.0\simpleCalculatorProgram.exe
+C:\Github\miniTasks\simpleCalculatorProgram\bin\Debug\net8.0\simpleCalculatorProgram.deps.json
+C:\Github\miniTasks\simpleCalculatorProgram\bin\Debug\net8.0\simpleCalculatorProgram.runtimeconfig.json
+C:\Github\miniTasks\simpleCalculatorProgram\bin\Debug\net8.0\simpleCalculatorProgram.dll
+C:\Github\miniTasks\simpleCalculatorProgram\bin\Debug\net8.0\simpleCalculatorProgram.pdb
+C:\Github\miniTasks\simpleCalculatorProgram\obj\Debug\net8.0\simpleCalculatorProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\miniTasks\simpleCalculatorProgram\obj\Debug\net8.0\simpleCalculatorProgram.AssemblyInfoInputs.cache
+C:\Github\miniTasks\simpleCalculatorProgram\obj\Debug\net8.0\simpleCalculatorProgram.AssemblyInfo.cs
+C:\Github\miniTasks\simpleCalculatorProgram\obj\Debug\net8.0\simpleCalculatorProgram.csproj.CoreCompileInputs.cache
+C:\Github\miniTasks\simpleCalculatorProgram\obj\Debug\net8.0\simpleCalculatorProgram.dll
+C:\Github\miniTasks\simpleCalculatorProgram\obj\Debug\net8.0\refint\simpleCalculatorProgram.dll
+C:\Github\miniTasks\simpleCalculatorProgram\obj\Debug\net8.0\simpleCalculatorProgram.pdb
+C:\Github\miniTasks\simpleCalculatorProgram\obj\Debug\net8.0\simpleCalculatorProgram.genruntimeconfig.cache
+C:\Github\miniTasks\simpleCalculatorProgram\obj\Debug\net8.0\ref\simpleCalculatorProgram.dll

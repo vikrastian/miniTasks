@@ -1,0 +1,14 @@
+C:\Github\miniTasks\variableNamesTypes\bin\Debug\net8.0\variableNamesTypes.exe
+C:\Github\miniTasks\variableNamesTypes\bin\Debug\net8.0\variableNamesTypes.deps.json
+C:\Github\miniTasks\variableNamesTypes\bin\Debug\net8.0\variableNamesTypes.runtimeconfig.json
+C:\Github\miniTasks\variableNamesTypes\bin\Debug\net8.0\variableNamesTypes.dll
+C:\Github\miniTasks\variableNamesTypes\bin\Debug\net8.0\variableNamesTypes.pdb
+C:\Github\miniTasks\variableNamesTypes\obj\Debug\net8.0\variableNamesTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\miniTasks\variableNamesTypes\obj\Debug\net8.0\variableNamesTypes.AssemblyInfoInputs.cache
+C:\Github\miniTasks\variableNamesTypes\obj\Debug\net8.0\variableNamesTypes.AssemblyInfo.cs
+C:\Github\miniTasks\variableNamesTypes\obj\Debug\net8.0\variableNamesTypes.csproj.CoreCompileInputs.cache
+C:\Github\miniTasks\variableNamesTypes\obj\Debug\net8.0\variableNamesTypes.dll
+C:\Github\miniTasks\variableNamesTypes\obj\Debug\net8.0\refint\variableNamesTypes.dll
+C:\Github\miniTasks\variableNamesTypes\obj\Debug\net8.0\variableNamesTypes.pdb
+C:\Github\miniTasks\variableNamesTypes\obj\Debug\net8.0\variableNamesTypes.genruntimeconfig.cache
+C:\Github\miniTasks\variableNamesTypes\obj\Debug\net8.0\ref\variableNamesTypes.dll
